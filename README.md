@@ -28,28 +28,28 @@ digital-literacy-project/
 │   ├── Screenshot1.png  
 │   ├── Screenshot2.png  
 │   └── Screenshot3.png  
-│
-├── task-2-portfolio/
-│   ├── github-profile.png
-│   ├── kaggle-profile.png
-│   └── linkedin-profile.png
-│
-├── task-3-platforms/
-│   ├── coding-problem.png
-│   ├── google-form.png
-│   └── responses-sheet.png
-│
-├── task-4-email-etiquette/
-│   ├── email1.txt
-│   ├── email2.txt
-│   └── social-media-checklist.txt
-│
-├── task-5-cybercrime/
-│   ├── casestudy.txt
-│   └── prevention-checklist.txt
-│
-└── report/
-    └── Project Report.docx
+│  
+├── task-2-portfolio/  
+│   ├── github-profile.png  
+│   ├── kaggle-profile.png  
+│   └── linkedin-profile.png  
+│  
+├── task-3-platforms/  
+│   ├── coding-problem.png  
+│   ├── google-form.png  
+│   └── responses-sheet.png  
+│  
+├── task-4-email-etiquette/  
+│   ├── email1.txt  
+│   ├── email2.txt  
+│   └── social-media-checklist.txt  
+│  
+├── task-5-cybercrime/  
+│   ├── casestudy.txt  
+│   └── prevention-checklist.txt  
+│  
+└── report/  
+    └── Project Report.docx  
 
 
 
