@@ -22,12 +22,12 @@ This project is created to demonstrate digital literacy skills such as creating 
 
 # Project Structure
 
-digital-literacy-project/
-│
-├── task-1-presentation/
-│   ├── Screenshot1.png
-│   ├── Screenshot2.png
-│   └── Screenshot3.png
+digital-literacy-project/  
+│  
+├── task-1-presentation/  
+│   ├── Screenshot1.png  
+│   ├── Screenshot2.png  
+│   └── Screenshot3.png  
 │
 ├── task-2-portfolio/
 │   ├── github-profile.png
