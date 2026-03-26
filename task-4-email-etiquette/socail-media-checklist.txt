@@ -1,0 +1,17 @@
+Social Media Do’s and Don’ts
+
+Do’s
+
+1.Keep your profile private
+2.Use strong passwords
+3.Think before posting
+4.Use social media for learning
+5.Report suspicious accounts
+
+Don’ts
+
+1.Do not share personal information
+2.Do not share OTP or passwords
+3.Do not post offensive content
+4.Do not talk to strangers
+5.Do not click unknown links
